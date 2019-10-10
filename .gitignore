@@ -1,0 +1,9 @@
+*.pyc
+*~
+*.swp
+*DS_Store
+*/static/admin
+/static/images*
+/static/media*
+*.idea
+*.xml
